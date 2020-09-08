@@ -3,6 +3,7 @@ import React from 'react';
 import Logo from '../Elements/Logo.js';
 import ButtonLink from '../Elements/Boton.js';
 import Input from '../Elements/Input.js';
+<<<<<<< HEAD
 import showMenu from '../Views/Menu.js';
 // import Menu from '../../menu.json';
 
@@ -46,6 +47,16 @@ const Pedidos = () => {
 //     console.log(myJson);
 //   });
 
+=======
+import data from '../../menu.json';
+
+const Pedidos = () => {
+    const menu = data;
+    console.log(menu);
+    console.log(menu.Cafés[0]);
+    console.log(menu.Pastelería);
+    
+>>>>>>> 8441708a478be8fd6bc1a74e08476d94fec136e9
     return (
         <div className="Orders">
             <Logo />
