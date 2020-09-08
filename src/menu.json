@@ -1,105 +1,123 @@
 {
     "Cafés": [
         {
-            "Latte": "Latte",
+            "id" : 1 , 
+            "title": "Latte",
             "valor": "$2990"
         },
         {
-            "Capuchino": "Capuchino",
+            "id": 2, 
+            "title": "Capuchino",
             "valor": "$2990"
         },
         {
-            "Mokachino": "Mokachino",
+            "id": 3, 
+            "title": "Mokachino",
             "valor": "$2990"
         },
         {
-            "Chocolate caliente": "Chocolate caliente",
+            "id": 4, 
+            "title": "Chocolate caliente",
             "valor": "$3490"
         },
         {
-            "Expresso": "Expresso",
+            "id": 5 , 
+            "title": "Expresso",
             "valor": "$1990"
         },
-        {
-            "Americano": "Americano",
+        { 
+            "id" : 6,
+            "title": "Americano",
             "valor": "$1990"
         }
     ],
     "Pastelería": [
         {
-            "Pie de Limón": "Pie de Limón",
+            "id" : 7,
+            "title": "Pie de Limón",
             "valor": "$2990"
         },
         {
-            "Muffin": "Muffin",
+            "id" : 8, 
+            "title": "Muffin",
             "valor": "$1990"
         },
         {
-            "Torta trufa": "Torta trufa",
+            "id" : 9, 
+            "title": "Torta trufa",
             "valor": "$3690"
         },
         {
-            "Panqueque": "Panqueque",
+            "id": 10, 
+            "title": "Panqueque",
             "valor": "$2990"
         },
         {
-            "Berlín": "Berlín",
+            "id": 11, 
+            "title": "Berlín",
             "valor": "$1990"
         },
         {
-            "Paquete de galletas": "Paquete de galletas",
+            "id" : 12,
+            "title": "Paquete de galletas",
             "valor": "$3290"
         }
     ],
     "Té": [
         {
-            "Earl Grey": "Earl Grey",
+            "id" : 13,
+            "title": "Earl Grey",
             "valor": "$2490"
         },
         {
-            "Té helado": "Té helado",
+            "id" : 14,
+            "title": "Té helado",
             "valor": "$2690"
         },
         {
-            "Té Limón jengibre": "Té limón jengibre",
+            "id" : 15,
+            "title": "Té limón jengibre",
             "valor": "$2690"
         },
         {
-            "Té verde": "Té verde",
+            "id" : 16,
+            "title": "Té verde",
             "valor": "$2490"
         },
         {
-            "Té negro": "Té negro",
+            "id" : 17,
+            "title": "Té negro",
             "valor": "$2490"
         },
         {
-            "Infusión herbal": "Infusión Herbal",
+            "id" : 18,
+            "title": "Infusión Herbal",
             "valor": "$1990"
         }
     ],
     "Sandwich": [
         {
-            "Ave Mayo": "Ave Mayo",
+            "title": "Ave Mayo",
             "valor": "$3690"
         },
         {
-            "Ave palta": "Ave palta",
+            "title": "Ave palta",
             "valor": "$4990"
         },
         {
-            "Sandwich de vegetales": "Sandwich de vegetales",
+            "title": "Sandwich de vegetales",
             "valor": "$4990"
         },
         {
-            "Croissant Aliado": "Croissant Aliado",
+            "title": "Croissant Aliado",
             "valor": "$3690"
         },
         {
-            "Tostadas a la sureña": "Tostadas a la sureña",
+            "title": "Tostadas a la sureña",
             "valor": "$2990"
         },
         {
-            "Paila de huevos": "Paila de huevos",
+            "title": "Paila de huevos",
             "valor": "$2990"
         }
     ]
